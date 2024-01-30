@@ -1,2 +1,7 @@
-Link used to create this:
-https://ahmed-nafies.medium.com/fastapi-with-sqlalchemy-postgresql-and-alembic-and-of-course-docker-f2b7411ee396
+https://ahmed-nafies.medium.com/fastapi-with-sqlalchemy-postgresql-and-alembic-and-of-course-docker-f2b7411ee396 
+
+https://medium.com/@vishal.sharma./run-postgresql-and-pgadmin-using-docker-compose-34120618bcf9 
+
+https://docs.google.com/presentation/d/10HouNIh_Xh3zpL7Q_6Fw-nwiY5BKm_E403rulbW6Kh0/edit#slide=id.g22ea2ba8f0b_2_135 
+
+https://github.com/qlawmarq/fastapi-mysql-docker 
